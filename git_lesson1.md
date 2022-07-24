@@ -11,3 +11,4 @@
 7. **git log** - output of all file versions
 8. **git reflog** - output of all, only commit
 9. **git checkout** - switching to a different file version (*for example, command git checkout d2d5d78 - switching to the version number 1)
+10. **git master** - switching to the current file version
