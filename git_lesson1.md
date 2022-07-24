@@ -6,3 +6,4 @@
 2. **git status** - check git
 3. **git add** - add a change to tracking
 4. **git add .** - tracking changes in all directives
+5. **commit** *plus* **-m" "** or **-am" "** - save changes to the repository (-m"text" - add message or -am"text" add a change to tracking and save changes to the repository witt message **BUT** dont do the **git add** command)
