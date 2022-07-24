@@ -8,4 +8,5 @@
 4. **git add .** - tracking changes in all directives
 5. **commit** *plus* **-m" "** or **-am" "** - save changes to the repository (-m"text" - add message or -am"text" add a change to tracking and save changes to the repository witt message **BUT** dont do the **git add** command)
 6. **git diff** - the difference between a file in the repository and the current saved file
-7. **git gog** - output of all file versions
+7. **git log** - output of all file versions
+8. **git reflog** - output of all, only commit
