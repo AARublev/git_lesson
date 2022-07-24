@@ -1,5 +1,6 @@
 # manual GIT 
 ![avatar](https://miro.medium.com/max/1200/1*hED79iPpQEcVg4R7BJs3SA.jpeg)
+
 ## basick commands
 
 1. **git init** - initialization git
@@ -19,3 +20,11 @@
 12. **ls** - viewing a local folder
 13. **git clone** - clone repository from github
 14. **git push** - redirect the repository to GitHub
+
+### WARNING! 
+1. always cmd+S
+2. read - last save on github, green - current position
+![avatar](https://raw.githubusercontent.com/AARublev/git_lesson/master/1.png)
+
+
+
