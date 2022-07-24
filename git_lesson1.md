@@ -12,3 +12,7 @@
 8. **git reflog** - output of all, only commit
 9. **git checkout** - switching to a different file version (*for example, command git checkout d2d5d78 f879c87 - switching to the version number 1)
 10. **git master** - switching to the current file version
+
+### commands for woking with GitHub
+
+11. **cd** *plus* **/Users/alex/lesson1/git_lesson** - viewing a local folder
