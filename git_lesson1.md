@@ -18,3 +18,4 @@
 11. **cd** *plus* **/Users/alex/lesson1** - go to the local folder
 12. **ls** - viewing a local folder
 13. **git clone** - clone repository from github
+14. **git push** - redirect the repository to GitHub
