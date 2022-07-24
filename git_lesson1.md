@@ -10,3 +10,4 @@
 6. **git diff** - the difference between a file in the repository and the current saved file
 7. **git log** - output of all file versions
 8. **git reflog** - output of all, only commit
+9. **git checkout** - switching to a different file version (*for example, command git checkout d2d5d78 - switching to the version number 1)
