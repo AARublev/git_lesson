@@ -23,8 +23,6 @@
 
 ### WARNING! 
 1. always cmd+S
-2. read - last save on github, green - current position
-![avatar](https://raw.githubusercontent.com/AARublev/git_lesson/master23/1.png)
 
 [detailed](https://git-scm.com/book/en/v2)
 
