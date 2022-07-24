@@ -15,4 +15,5 @@
 
 ### commands for woking with GitHub
 
-11. **cd** *plus* **/Users/alex/lesson1/git_lesson** - viewing a local folder
+11. **cd** *plus* **/Users/alex/lesson1** - go to the local folder
+12. **ls** - viewing a local folder
