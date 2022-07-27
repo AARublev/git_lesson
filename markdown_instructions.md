@@ -34,9 +34,6 @@
 
 ## Работа с таблицами
 
-<<<<<<< HEAD
-Здесь должны находиться правила по работе с таблицами
-=======
 1. Чтобы в markdown рисовать таблицы необходимо использовать вертикальную черту (|) и дефис (-). Вертикальная черта служит границей между столбцами таблицы, а дефис горизонтальной границей в таблице. Например: 
 
 |x|y|-->|
@@ -46,11 +43,9 @@
 |1|0|0|
 |1|1|1|
 
->>>>>>> tables
 
 ## Цитаты
 
-<<<<<<< HEAD
 1. Чтобы добавить цитату нужно перед тексом добавить угловую скобку в виде знака больше (>). Например, 
 > Цитата
 
@@ -60,11 +55,6 @@
 >>> Еще одна цитата
 >>>> Финальная цитата
 
-
-
 ## Заключение
-=======
-## Заключени
 
-[подробнее можно посмотреть тут](https://texterra.ru/blog/ischerpyvayushchaya-shpargalka-po-sintaksisu-razmetki-markdown-na-zametku-avtoram-veb-razrabotchikam.html?ysclid=l63ubfncrc544178466)
->>>>>>> finish
+[подробнее тут](https://texterra.ru/blog/ischerpyvayushchaya-shpargalka-po-sintaksisu-razmetki-markdown-na-zametku-avtoram-veb-razrabotchikam.html?ysclid=l63zmogns032865696)
