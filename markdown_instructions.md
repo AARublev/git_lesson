@@ -30,4 +30,6 @@
 
 ## Цитаты
 
-## Заключение
+## Заключени
+
+[подробнее можно посмотреть тут](https://texterra.ru/blog/ischerpyvayushchaya-shpargalka-po-sintaksisu-razmetki-markdown-na-zametku-avtoram-veb-razrabotchikam.html?ysclid=l63ubfncrc544178466)
